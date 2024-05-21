@@ -58,7 +58,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>springboot-crud-k8s</finalName>
+		<finalName>easyShop</finalName>
 	</build>
 
 </project>
